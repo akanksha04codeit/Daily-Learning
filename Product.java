@@ -40,6 +40,6 @@ class setter{
 		System.out.println("Product Code: "+ob.getCode());
 		System.out.println("Product Name: "+ob.getName());
 		System.out.println("Product Price: "+ob.getPrice());
-		
+		s.close();
 	}
 }
