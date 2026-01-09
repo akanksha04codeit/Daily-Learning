@@ -22,10 +22,10 @@ public class mk {
 		
 		double subAdd= eng+maths+chem+phy+bio;
 		double per= (subAdd/500)*100;
-		double cgpa= subAdd/5;
+		// double cgpa= subAdd/5;
 		
 		System.out.println("Percentage of the student "+name+" is: "+per);
-		//System.out.println("CGPA of the student "+name+" is: "+cgpa);
+		// System.out.println("CGPA of the student "+name+" is: "+cgpa);
 		
 		if(per>=80) {
 			System.out.println("O grade");
@@ -36,6 +36,7 @@ public class mk {
 		}else {
 			System.out.println("Fail");
 		}
+            sc.close();
 	}
 
 }
