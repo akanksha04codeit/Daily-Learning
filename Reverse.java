@@ -5,7 +5,7 @@ public class Reverse {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the Strimg:");
         String str = s.nextLine();
-        int len = str.length;
+        int len = str.length();
         System.out.println("======Reverse of String======");
         for(int i=len-1; i>=0; i--){
             char ch = str.charAt(i);

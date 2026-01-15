@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JoinDemo",
+            "request": "launch",
+            "mainClass": "JoinDemo",
+            "projectName": "Daily Learning_bf4e303e"
+        },
+        {
+            "type": "java",
             "name": "Inheritance",
             "request": "launch",
             "mainClass": "Inheritance",
