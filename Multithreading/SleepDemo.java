@@ -1,4 +1,4 @@
-//sleep method delay the execution
+package Multithreading;
 
 class sleepExample extends Thread{
 	public void run() {
