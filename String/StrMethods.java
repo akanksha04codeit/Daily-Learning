@@ -1,10 +1,6 @@
 package String;
 
-
-public class StrMethods {
-
-	
-		
+public class StrMethods {		
 	/*String str1 = "Hello";
 	String str2 = "Hello";
 	String str3 = "hello";
