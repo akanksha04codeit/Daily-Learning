@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "Array.LongestConsecutiveSequence",
+            "projectName": "Daily Learning_bf4e303e"
+        },
+        {
+            "type": "java",
             "name": "lambda",
             "request": "launch",
             "mainClass": "lambda",
