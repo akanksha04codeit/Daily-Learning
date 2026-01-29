@@ -1,3 +1,4 @@
+package ExceptionHandling;
 /*create method with exception handling
 - method must extract substring from string
 - and print substring index*/
